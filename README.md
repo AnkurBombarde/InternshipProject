@@ -23,8 +23,4 @@ The dataset used in this project is sourced from [provide dataset source], consi
 ## Conclusion
 This project demonstrates the potential of machine learning techniques in healthcare analytics, particularly in the early detection and prevention of chronic diseases like diabetes. By leveraging predictive modeling, healthcare providers can proactively identify high-risk patients and intervene with personalized interventions, ultimately improving patient outcomes and reducing healthcare costs.
 
-## Contributors
-- [Your Name]
-- [List other contributors if applicable]
-
 
